@@ -11,7 +11,7 @@ Anyway, what `teegrinder.py` does is simply constantly send grind requests to th
 Requirements
 =======
 * Python
-* A tiny bit of knowledge of Python
+* A tiny bit of knowledge of Python!
 
 Instructions
 =======
