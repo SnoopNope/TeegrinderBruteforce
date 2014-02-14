@@ -21,7 +21,7 @@ With 7 choices, it still took me over 7000 requests to get a match.
 MATCH_NUMBER = 3
 
 # your shirt size (S, M, L, XL, 2XL)
-SIZE = 'S'
+SIZE = 'L'
 
 # your gender (M, F)
 GENDER = 'M'
@@ -31,20 +31,16 @@ GENDER = 'M'
 COOKIE = 'SESSION_SERVER=INSTANCE_02; PHPSESSID=sampleSessionId'
 
 # user agent. also i trust you're able to get this.
-USER_AGENT = 'Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107'
 
 # image name of the shirts you want. to get them just grind till you see a
 # shirt you like, then copy its url. you don't need the full url, just
 # the image name will do. e.g. ('cool-shirt-250x0.png')
 # more shirts will mean shorter search times.
 SHIRTS = [
-            'northerncitylights-mens-front-250x0.png',
-            'smartowl-mens-front-250x0.png',
-            '2upd_a9v-250x0.png',
-            'wacom-riseofahero-mens-front-250x0.png',
-            'theguardianin3d-mens-front-250x0.png',
-            '2rgj_z4f-250x0.png',
-            '2vwp_n1h-250x0.png'
+            'samurai-resurrection-mens-front-250x0.png',
+            'native-upheaval-mens-front-250x0.png',
+            'to-serve-and-protect-with-humor-mens-front-250x0.png',
          ]
 
 # delay in seconds between grinds. don't spam their servers!
